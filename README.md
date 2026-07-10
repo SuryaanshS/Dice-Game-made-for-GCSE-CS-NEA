@@ -2,7 +2,7 @@
 
 Welcome to my Python dice game built for **Stardance**! This is a two-player dice game where players log in, roll dice, and compete for a spot on the leaderboard.
 
-Download the folder "src" and use the executable to run the code, or alternatively, use the link below.
+Download the zip folder and navigate to folder "src" and use the executable to run the code, or alternatively, use the link below.
 
 ## Live Demo
 **[Click here to play the live game on Trinket!](PASTE_YOUR_TRINKET_LINK_HERE)**
